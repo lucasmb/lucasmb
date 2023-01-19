@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmb
-- 👀 I’m a web developer 
+- 👀 I’m a Full-Stack web developer 
 - 📫 How to reach me ... https://www.linkedin.com/in/lucasborio/
 
 <!---
